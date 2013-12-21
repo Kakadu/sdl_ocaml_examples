@@ -1,2 +1,4 @@
 <main.*>: package(tsdl)
+<les*.*>: package(tsdl)
+true: verbose
 
